@@ -1,0 +1,11 @@
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\bin\Debug\GameOfTheYear.exe.config
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\bin\Debug\GameOfTheYear.exe
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\bin\Debug\GameOfTheYear.pdb
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.csproj.AssemblyReference.cache
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.Form1.resources
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.Form2.resources
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.Properties.Resources.resources
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.csproj.GenerateResource.cache
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.csproj.CoreCompileInputs.cache
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.exe
+D:\Projects\Semester2\GameOfTheYear\GameOfTheYear\obj\Debug\GameOfTheYear.pdb
